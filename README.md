@@ -1,15 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34459556/README.md)
-## Hi there 👋
-
-<!--
-**micah-mei/micah-mei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<p align="center">
+<p align="center">
   <a href="https://github.com/micah-mei">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Micah" alt="Hello! I&#39;m Micah" />
   </a>
@@ -91,9 +80,3 @@ ull-stack developer focused on scalable systems, intuitive UI, and clean code. A
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/micah-mei">micah-mei</a></i></p>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
