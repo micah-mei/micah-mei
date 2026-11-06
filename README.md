@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-ull-stack developer focused on scalable systems, intuitive UI, and clean code. Always tinkering with new web tools and sharing notes along the way.
+Full-stack developer focused on scalable systems, intuitive UI, and clean code. Always tinkering with new web tools and sharing notes along the way.
 
 🔭 &nbsp;I'm currently working on **a grocery tracking app**  
 🌱 &nbsp;I'm currently learning **Assembly language and C**  
